@@ -1,5 +1,20 @@
-[EM CONSTRUÇÃO]
-<!--
+
+<!--# Modelador 3D | Programador
+
+Sólida experiência em Blender (Modelagem 3D e Scripting) aplicada à movelaria aliada a automação em Excel, reduzindo a necessecidade de processos manuais.
+
+### Principais linguagens e interesses
+- Python
+- C/C++
+- SAP
+
+### Projetos Pessoais
+ - Blender Extension: Objects, Materials & Time
+
+
+
+
+ 
 Separar em versão inglês e português, começando pela em inglês.
 
 
