@@ -14,7 +14,7 @@ Cursando Análise e Desenvolvimento de Sistemas (3º semestre).
 ##### Blender Extension: Objects, Materials & Time
 Extensão para o Blender que ajuda a criar e exportar do programa uma lista de objetos, materiais e tempo de produção em formato de tabela (.txt). O projeto pode ser conferido neste [repositório](https://github.com/alvesjohann/OMTExport)
 <p align="center">
- <img width="276" height="628" alt="image" src="https://github.com/user-attachments/assets/6aec3997-e87a-41f3-92b2-cf8f0f7fd20c" />
+ <img width="276" height="628" alt="image" src="https://raw.githubusercontent.com/alvesjohann/alvesjohann/refs/heads/main/assets/v0.1.0-alpha.png" />
 </p>
 <!--
  -->
