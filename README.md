@@ -5,11 +5,6 @@ Sólida experiência em Blender (Modelagem 3D e Scripting) aplicada à movelaria
 
 Cursando Análise e Desenvolvimento de Sistemas (3º semestre).
 
-### Principais linguagens e interesses
-- Python
-- C/C++
-- SAP
-
 ### Projetos Pessoais
 ##### Blender Extension: Objects, Materials & Time Export
 Extensão para o Blender que ajuda a criar e exportar do programa uma lista de objetos, materiais e tempo de produção em formato de tabela (.txt). O projeto pode ser conferido neste [repositório](https://github.com/alvesjohann/OMTExport)
